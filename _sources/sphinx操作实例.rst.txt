@@ -1,6 +1,7 @@
 =======================
-Sphinx的一个实例操作
+Sphinx的一个实例操作（）
 =======================
+Author：李昊
 github中有些项目，是用reStructuredTex标记语言写的开源书籍，当你下载下来阅读时有时会发现下载下来的目录里面有很多各种格式的文件，并不能直接阅读，这时sphinx编译成我们可以阅读的格式，比如html，pdf等格式。
 
 以用sphinx编译此开源书籍项目:https://github.com/me115/linuxtools_rst产生html格式为例。

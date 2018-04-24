@@ -25,6 +25,6 @@ github中有些项目，是用reStructuredTex标记语言写的开源书籍，�
 .. image:: .C:\Users\apple\Desktop\sphinx-demo\source\demo\tupain3.png                                 
     :width: 200px 
 
-4。查看编译结果
+4.查看编译结果
 
       
